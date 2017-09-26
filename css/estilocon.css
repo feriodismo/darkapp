@@ -1,0 +1,51 @@
+
+.nav{
+	background: #000000;
+	width: 100%;
+	text-align: left;
+}
+textarea {
+	resize: none;
+}
+
+.menu{
+	color: #ffffff;
+	margin-bottom: 0px;
+	margin-top:10px;
+	font-family: 'Raleway';
+	font-size: 15px;
+}
+.men{
+	color: #ffffff;
+}
+.men:hover{
+	text-decoration: none;
+}
+.men:active{
+	text-decoration: none;
+}
+.men:link{
+	text-decoration: none;
+
+}
+.men:visited{
+	text-decoration: none;
+}
+
+ .todo{
+      font-family: Courier New;
+      margin: 50px 50px;
+    
+    }
+
+@media screen and (min-width: 700px) {
+.menu {
+	color: #ffffff;
+	margin-bottom: 0px;
+	margin-top:10px;
+	font-family: 'Raleway';
+	font-size: 25px;
+
+}
+
+

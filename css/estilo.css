@@ -1,0 +1,23 @@
+
+ .cabeza {
+ 	background-color: #000000;
+    box-shadow: 10px 30px 5px #888888;
+ 
+ }
+
+ .logo {
+ 	width: 30px;
+ 	margin: 10px 10px;
+ }
+
+ .cell {
+        width:300px;
+    }
+
+ .top {
+background-color: #191919;
+ }
+
+.blur {
+	width: 100%;
+}

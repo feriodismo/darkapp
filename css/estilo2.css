@@ -1,0 +1,101 @@
+body{
+	background: #191919 !important;
+}
+.titulo{
+font-family: 'Crushed';
+color: #ffffff;
+font-size: 30px;
+margin:0px;
+}
+
+
+ .letra {
+
+font-family: 'Crushed';
+height: 100%;		
+background: #191919;
+color: #ffffff;
+}
+.logo{
+	color:#ffffff;
+	font-size: 80px;
+}
+.logo:link
+{
+	color: #000000;
+	text-decoration: none;
+}
+.logo:hover
+{
+	color: #000000;
+	text-decoration: none;
+}
+.logo:active
+{
+
+	color:#000000;
+	text-decoration: none;
+}
+.logo:visited
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+
+.linea {
+	font-size: 50px;
+}
+.dos {
+	font-size:50px;
+}
+.desc {
+	font-family: 'Raleway';
+	
+	text-align: center;
+	font-size: 20px;
+}
+.dark {
+	font-size: 25px;
+	font-family: 'Crushed';
+	color: #ffffff;
+}
+
+
+@media screen and (min-width: 700px) {
+   .letra {
+
+font-family: 'Crushed';	
+background: #191919;
+color: #ffffff;
+}
+.logo{
+	font-size: 180px;
+}
+.linea {
+	font-size: 120px;
+}
+.dos {
+	font-size: 120px;
+}
+.caja {
+	padding-top: 40px;
+}
+.desc {
+	font-family: 'Raleway';
+
+	font-size: 30px;
+}
+.caja2 {
+	padding-top: 40px;
+	
+}
+.dark {
+	font-size: 40px;
+	font-family: 'Crushed';
+	color: #ffffff;
+
+}
+
+}
+
